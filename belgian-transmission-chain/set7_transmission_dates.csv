@@ -1,0 +1,15 @@
+patients,window of transmission
+A -> B*,? - 07/05/90
+B -> A*,? - 14/05/90 
+A -> F ,01/02/95 - 02/08/95 
+F -> G ,16/01/02 - 16/04/02 
+B -> H ,29/06/95 - 24/07/95 
+B -> I ,01/02/93 - 28/04/93 
+B -> C ,23/09/93 - 10/01/94 
+C -> D ,16/03/95 - 01/07/95 
+C -> L ,23/09/93 - 12/03/06 
+C -> E ,15/06/00 - 01/02/01 
+E -> K,01/06/04 - 15/09/04
+,
+See Lemey et al (JVI 2005) for more details. ,
+*: The direction of the first transmission could not be established.,

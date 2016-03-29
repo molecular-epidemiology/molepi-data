@@ -1,0 +1,27 @@
+Accession,Name,HXB2 start,HXB2 stop,Sequence length,# of patient seqs,Country,Sampling year,Organism,Subtype,Pubmed ID,Patient code,PAT id,Patient sex,Risk factor,Infection country,Patient comment
+U68496,p1_136_1987,7036,7312,276,4,SWEDEN,1987,HIV-1,B,8855273,p1,14122,M,Heterosexual,HAITI,"P1 infected (p2, p4, p5, p7, p8, p11). P8 infected p10 (heterosexual); P8 infected p9 (mother-baby). P5 infected p6 (heterosexual). P2 infected p3 (mother-baby)."
+U68497,p1_719_1988,7036,7312,273,4,SWEDEN,1988,HIV-1,B,8855273,p1,14122,M,Heterosexual,HAITI,"P1 infected (p2, p4, p5, p7, p8, p11). P8 infected p10 (heterosexual); P8 infected p9 (mother-baby). P5 infected p6 (heterosexual). P2 infected p3 (mother-baby)."
+U68498,p2_135_1987,7036,7312,276,2,SWEDEN,1987,HIV-1,B,8855273,p2,2547,F,Heterosexual,SWEDEN,Infected by p1(10138253).
+U68499,p3_105_1986,7036,7312,273,4,SWEDEN,1986,HIV-1,B,8855273,p3,2548,M,Mother -> Baby,SWEDEN,
+U68500,p3_529_1988,7036,7312,273,4,SWEDEN,1988,HIV-1,B,8855273,p3,2548,M,Mother -> Baby,SWEDEN,
+U68501,p5_317_1988,7036,7312,282,2,SWEDEN,1988,HIV-1,B,8855273,p5,2549,F,Heterosexual,SWEDEN,
+U68502,p6_6767_1994,7036,7312,279,2,SWEDEN,1994,HIV-1,B,8855273,p6,2550,M,Heterosexual,SWEDEN,This patient was infected by p5.
+U68503,p7_6760_1994,7036,7312,282,2,SWEDEN,1994,HIV-1,B,8855273,p7,2551,F,Heterosexual,SWEDEN,
+U68504,p8_159_1987,7036,7312,276,4,SWEDEN,1987,HIV-1,B,8855273,p8,2552,F,Heterosexual,SWEDEN,Infected by p1. Infected p10 (heterosexual) and p9 (mother-baby).
+U68505,p8_822_1989,7036,7312,276,4,SWEDEN,1989,HIV-1,B,8855273,p8,2552,F,Heterosexual,SWEDEN,Infected by p1. Infected p10 (heterosexual) and p9 (mother-baby).
+U68506,p9_256_1986,7036,7312,276,2,SWEDEN,1986,HIV-1,B,8855273,p9,2553,F,Mother -> Baby,SWEDEN,Infected by p8.
+U68507,p11_113_1987,7036,7312,276,4,SWEDEN,1987,HIV-1,B,8855273,p11,2554,F,Heterosexual,SWEDEN,Infected by p1.
+U68508,p11_9939_1993,7036,7312,279,4,SWEDEN,1993,HIV-1,B,8855273,p11,2554,F,Heterosexual,SWEDEN,Infected by p1.
+U68509,p1_136_1987,793,1220,438,4,SWEDEN,1987,HIV-1,B,8855273,p1,14122,M,Heterosexual,HAITI,"P1 infected (p2, p4, p5, p7, p8, p11). P8 infected p10 (heterosexual); P8 infected p9 (mother-baby). P5 infected p6 (heterosexual). P2 infected p3 (mother-baby)."
+U68510,p1_719_1988,793,1220,438,4,SWEDEN,1988,HIV-1,B,8855273,p1,14122,M,Heterosexual,HAITI,"P1 infected (p2, p4, p5, p7, p8, p11). P8 infected p10 (heterosexual); P8 infected p9 (mother-baby). P5 infected p6 (heterosexual). P2 infected p3 (mother-baby)."
+U68511,p2_135_1987,793,1220,429,2,SWEDEN,1986,HIV-1,B,8855273,p2,2547,F,Heterosexual,SWEDEN,Infected by p1(10138253).
+U68512,p3_105_1986,793,1220,429,4,SWEDEN,1986,HIV-1,B,8855273,p3,2548,M,Mother -> Baby,SWEDEN,
+U68513,p3_529_1988,793,1220,429,4,SWEDEN,1988,HIV-1,B,8855273,p3,2548,M,Mother -> Baby,SWEDEN,
+U68514,p5_317_1988,793,1220,429,2,SWEDEN,1988,HIV-1,B,8855273,p5,2549,F,Heterosexual,SWEDEN,
+U68515,p6_6767_1994,793,1220,429,2,SWEDEN,1994,HIV-1,B,8855273,p6,2550,M,Heterosexual,SWEDEN,This patient was infected by p5.
+U68516,p7_6760_1994,793,1220,429,2,SWEDEN,1994,HIV-1,B,8855273,p7,2551,F,Heterosexual,SWEDEN,
+U68517,p8_159_1987,793,1220,429,4,SWEDEN,1987,HIV-1,B,8855273,p8,2552,F,Heterosexual,SWEDEN,Infected by p1. Infected p10 (heterosexual) and p9 (mother-baby).
+U68518,p8_822_1989,793,1220,429,4,SWEDEN,1989,HIV-1,B,8855273,p8,2552,F,Heterosexual,SWEDEN,Infected by p1. Infected p10 (heterosexual) and p9 (mother-baby).
+U68519,p9_256_1986,793,1220,429,2,SWEDEN,1986,HIV-1,B,8855273,p9,2553,F,Mother -> Baby,SWEDEN,Infected by p8.
+U68520,p11_113_1987,793,1220,429,4,SWEDEN,1987,HIV-1,B,8855273,p11,2554,F,Heterosexual,SWEDEN,Infected by p1.
+U68521,p11_9939_1993,793,1220,429,4,SWEDEN,1993,HIV-1,B,8855273,p11,2554,F,Heterosexual,SWEDEN,Infected by p1.
